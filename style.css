@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+
+
+.footter{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    padding: 20px;
+    background-color: rgb(106, 84, 187);
+}
+button{
+    border: none;
+}
+.nav{
+    background-color: black;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
